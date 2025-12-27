@@ -6,8 +6,6 @@
 
 
 
-الصورة التالية توضح الطبقات الثلاثة والتواصل بينها باستخدام Facade Pattern.
-
 
 
 !\[High-Level Package Diagram](part1/diagrams/task\_0\_high\_level\_package\_diagram.png)
